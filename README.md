@@ -1,6 +1,6 @@
 # better-notes-zotero-template
 Based on ZOTERO 7, 需要better notes for zotero插件，不同于其他笔记模板，该模板对于控制领域是定制化的，更像是一个思维导师，引导一步步读文献。
-包含六大步骤：自动导入期刊元数据、摘要创新点凝练、系统与问题、算法、定理、实验结果、研究结论、感想与疑问。每块都有提示怎么去撰写这块内容。以下是这六块的预览图片。
+包含六大步骤：自动导入期刊元数据、摘要创新点凝练、系统与问题、算法、定理、实验结果、研究结论、感想与疑问。每块都有提示怎么去撰写这块内容、每块色系相同保证美观和易读。以下是这六块的预览图片。
 <img width="2478" height="992" alt="image" src="https://github.com/user-attachments/assets/45fffc1d-900d-441d-aefd-5d1dede81d4e" />
 <img width="2480" height="1178" alt="image" src="https://github.com/user-attachments/assets/f0f9de33-964a-42c6-b61b-fcd280c639f6" />
 <img width="2504" height="1248" alt="image" src="https://github.com/user-attachments/assets/14937f9e-4dcc-4ad3-afd4-d92691655e0a" />
